@@ -62,7 +62,7 @@ _**initLoc**_
 >displayed by decreasing nucleotide location. Indicating the reverse strand also changes all
 >bases into the appropriate complementary base (A to T and C to G and vice versa).
 >
-_**size**_ --- *Optional*
+_**size**_ — *Optional*
 >Positive integer specifying the size of the graph between 1 and 200. Default value of 100.
 >
 _**labelFreq**_ --- *Optional*
