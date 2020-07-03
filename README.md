@@ -11,7 +11,7 @@ to extract this data from BAM files.
 ## Installation
 Download and unzip the archive file:
 ```bash
-wget DOWNLOAD_LINK
+wget https://github.com/bundschuhlab/DIGEST/raw/master/DIGEST.tar.gz
 tar -xzvf DIGEST.tar.gz
 ```
 Change into the DIGEST directory:
