@@ -65,7 +65,7 @@ _**initLoc**_
 _**size**_ — *Optional*
 >Positive integer specifying the size of the graph between 1 and 200. Default value of 100.
 >
-_**labelFreq**_ --- *Optional*
+_**labelFreq**_ — *Optional*
 >Positive integer specifying the frequency at which nucleotide positions will be labeled.
 >Position labels which are multiples of the given value will be shown below the nucleotide label.
 >Default value of 1.
