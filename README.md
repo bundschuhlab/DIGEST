@@ -11,12 +11,12 @@ to extract this data from BAM files.
 ## Installation
 Download and unzip the archive file:
 ```bash
-wget https://github.com/bundschuhlab/DIGEST/raw/master/DIGEST.tar.gz
-tar -xzvf DIGEST.tar.gz
+wget https://github.com/bundschuhlab/DIGEST/archive/master.zip
+unzip master.zip
 ```
 Change into the DIGEST directory:
 ```bash
-cd DIGEST
+cd DIGEST-master
 ```
 Build Pileup2JSON:
 ```bash
