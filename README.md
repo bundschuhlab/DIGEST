@@ -4,9 +4,9 @@ Visualization tool that displays frequency data from high throughput sequencing 
 
 ## Introduction
 
-Workflows between sequencing data files (BAM) and working websites are often cumbersome or
-difficult to create. DIGEST helps fill in the gaps by offering tools to visualize sequencing data and
-to extract this data from BAM files.
+Sequence variation data in the form of multiple alignments or nucleotide frequencies is often difficult to understand,
+especially for less computationally trained individuals. DIGEST helps to fill in this gap by offering tools to visualize
+sequence variation data in the familiar format of Sanger sequencing traces and to extract this data from BAM files.
 
 ## Installation
 Download and unzip the archive file:
