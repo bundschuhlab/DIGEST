@@ -83,3 +83,8 @@ Options:
 
 Default: input and output from cin and cout respectively
 ```
+
+Typical usage:
+```bash
+samtools view my_data.bam chr11:81850106-81850126 | samtools mpileup | Pileup2JSON -o my_freqtable.json
+```
